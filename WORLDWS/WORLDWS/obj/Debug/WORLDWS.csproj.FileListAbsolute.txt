@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\WORLDWS\WORLDWS\bin\WORLDWS.dll.config
+C:\Users\Administrator\source\repos\WORLDWS\WORLDWS\bin\WORLDWS.dll
+C:\Users\Administrator\source\repos\WORLDWS\WORLDWS\bin\WORLDWS.pdb
+C:\Users\Administrator\source\repos\WORLDWS\WORLDWS\obj\Debug\WORLDWS.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WORLDWS\WORLDWS\obj\Debug\WORLDWS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WORLDWS\WORLDWS\obj\Debug\WORLDWS.dll
+C:\Users\Administrator\source\repos\WORLDWS\WORLDWS\obj\Debug\WORLDWS.pdb
+C:\Users\ASUS\Downloads\world\WORLDWS\WORLDWS\bin\WORLDWS.dll.config
+C:\Users\ASUS\Downloads\world\WORLDWS\WORLDWS\bin\WORLDWS.dll
+C:\Users\ASUS\Downloads\world\WORLDWS\WORLDWS\bin\WORLDWS.pdb
+C:\Users\ASUS\Downloads\world\WORLDWS\WORLDWS\obj\Debug\WORLDWS.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\world\WORLDWS\WORLDWS\obj\Debug\WORLDWS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\world\WORLDWS\WORLDWS\obj\Debug\WORLDWS.dll
+C:\Users\ASUS\Downloads\world\WORLDWS\WORLDWS\obj\Debug\WORLDWS.pdb
